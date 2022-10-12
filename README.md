@@ -18,25 +18,5 @@ Thank you to the YURS software team co-lead for helping me out (not going to rev
 Also, I would like to thank all these articles for helping me when it got too tough (yes, theres a lot):
 
 https://youtu.be/5l1zxhHYCWU
-
 https://docs.ros.org/en/humble/index.html	
 https://youtu.be/MJnfuoTHR_g	
-https://youtu.be/Gg25GfA456o
-https://youtu.be/WopwFlRee2w
-https://youtu.be/7dV4GBpKG8g
-https://youtu.be/YRK8jtP3B60
-https://youtu.be/zHwFtyxJsog
-https://stackoverflow.com/questions/70538793/remote-write-access-to-repository-not-granted-fatal-unable-to-access
-https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php
-https://superuser.com/questions/264330/how-to-get-back-to-the-command-line-after-launching-a-node-js-script
-https://github.com/ros2/rclpy
-https://rollbar.com/blog/logging-in-python/
-https://stackoverflow.com/questions/18053500/typeerror-not-all-arguments-converted-during-string-formatting-python
-https://www.pylenin.com/blogs/stop-iteration-exception/
-https://www.geeksforgeeks.org/python-sys-module/
-https://www.digitalocean.com/community/tutorials/python-string-module
-https://www.theconstructsim.com/ros2-5-mins-001-launch-ros2-node/
-https://stackoverflow.com/questions/69513649/visual-studio-code-extensions-stopped-working-suddenly
-http://wiki.ros.org/std_msgs?distro=noetic
-https://www.geeksforgeeks.org/python-attributeerror/
-https://answers.ros.org/question/348083/error-ros2-run-package-not-found/
