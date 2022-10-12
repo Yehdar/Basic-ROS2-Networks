@@ -18,6 +18,7 @@ Thank you to the YURS software team co-lead for helping me out (not going to rev
 Also, I would like to thank all these articles for helping me when it got too tough (yes, theres a lot):
 
 https://youtu.be/5l1zxhHYCWU
+
 https://docs.ros.org/en/humble/index.html	
 https://youtu.be/MJnfuoTHR_g	
 https://youtu.be/Gg25GfA456o
