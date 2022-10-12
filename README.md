@@ -1,8 +1,8 @@
 # More backend, eh?
-Backend has always kicked my ass and I have had enough! From now on, I will get more invovled on the backend aspects of projects. In fact, I will accomplish this by being a part of the YURS software team. Of course, rovers are cool on their own but to actual make one think and compute is something else. 
+Backend has always kicked my ass and I have had enough! From now on, I will get more invovled on the backend aspects of projects. In fact, I plan to accomplish this by being a part of the York University Robotics Society software team. With everything, there is the good and the bad. In this case, the good is being surrounded by very talented, driven people who will do their utmost to get the job done. On the other hand, the bad is that... theres no bad lol! Originally, I would have intepreted the backend programming to be bad but now I see it as an oppurtunity to get better. Albeit, there is a steep learning curve which slightly frightens me but I know, deep down, that if I put in the work, then I will be alright (probably excelling). Anyways, this repo pertains to my first assignment in the software team. 
 
 ## DETAILS
-- ROS2 (Humble Hawksbill(
+- ROS2 (Humble Hawksbill)
 - Python
 - Ubuntu
 
