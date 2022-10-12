@@ -1,0 +1,5 @@
+[console_scripts]
+publisher = yurs_network.my_first_node:main
+subscriber1 = yurs_network.my_second_node:main
+subscriber2 = yurs_network.my_third_node:main
+

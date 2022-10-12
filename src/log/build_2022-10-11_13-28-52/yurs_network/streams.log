@@ -1,0 +1,45 @@
+[1.314s] Invoking command in '/home/donutu/ros2_ws_v2/src/yurs_network': PYTHONPATH=/home/donutu/ros2_ws_v2/src/install/yurs_network/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/yurs_network build --build-base /home/donutu/ros2_ws_v2/src/build/yurs_network/build install --prefix /home/donutu/ros2_ws_v2/src/install/yurs_network --record /home/donutu/ros2_ws_v2/src/build/yurs_network/install.log --single-version-externally-managed
+[1.772s] running egg_info
+[1.772s] creating ../build/yurs_network/yurs_network.egg-info
+[1.772s] writing ../build/yurs_network/yurs_network.egg-info/PKG-INFO
+[1.774s] writing dependency_links to ../build/yurs_network/yurs_network.egg-info/dependency_links.txt
+[1.775s] writing entry points to ../build/yurs_network/yurs_network.egg-info/entry_points.txt
+[1.775s] writing requirements to ../build/yurs_network/yurs_network.egg-info/requires.txt
+[1.776s] writing top-level names to ../build/yurs_network/yurs_network.egg-info/top_level.txt
+[1.777s] writing manifest file '../build/yurs_network/yurs_network.egg-info/SOURCES.txt'
+[1.781s] reading manifest file '../build/yurs_network/yurs_network.egg-info/SOURCES.txt'
+[1.784s] writing manifest file '../build/yurs_network/yurs_network.egg-info/SOURCES.txt'
+[1.786s] running build
+[1.786s] running build_py
+[1.787s] creating /home/donutu/ros2_ws_v2/src/build/yurs_network/build
+[1.788s] creating /home/donutu/ros2_ws_v2/src/build/yurs_network/build/lib
+[1.788s] creating /home/donutu/ros2_ws_v2/src/build/yurs_network/build/lib/yurs_network
+[1.789s] copying yurs_network/my_first_node.py -> /home/donutu/ros2_ws_v2/src/build/yurs_network/build/lib/yurs_network
+[1.789s] copying yurs_network/my_third_node.py -> /home/donutu/ros2_ws_v2/src/build/yurs_network/build/lib/yurs_network
+[1.790s] copying yurs_network/my_second_node.py -> /home/donutu/ros2_ws_v2/src/build/yurs_network/build/lib/yurs_network
+[1.791s] copying yurs_network/__init__.py -> /home/donutu/ros2_ws_v2/src/build/yurs_network/build/lib/yurs_network
+[1.792s] running install
+[1.793s] running install_lib
+[1.795s] creating /home/donutu/ros2_ws_v2/src/install/yurs_network/lib/python3.10/site-packages/yurs_network
+[1.796s] copying /home/donutu/ros2_ws_v2/src/build/yurs_network/build/lib/yurs_network/my_first_node.py -> /home/donutu/ros2_ws_v2/src/install/yurs_network/lib/python3.10/site-packages/yurs_network
+[1.797s] copying /home/donutu/ros2_ws_v2/src/build/yurs_network/build/lib/yurs_network/my_third_node.py -> /home/donutu/ros2_ws_v2/src/install/yurs_network/lib/python3.10/site-packages/yurs_network
+[1.797s] copying /home/donutu/ros2_ws_v2/src/build/yurs_network/build/lib/yurs_network/my_second_node.py -> /home/donutu/ros2_ws_v2/src/install/yurs_network/lib/python3.10/site-packages/yurs_network
+[1.798s] copying /home/donutu/ros2_ws_v2/src/build/yurs_network/build/lib/yurs_network/__init__.py -> /home/donutu/ros2_ws_v2/src/install/yurs_network/lib/python3.10/site-packages/yurs_network
+[1.799s] byte-compiling /home/donutu/ros2_ws_v2/src/install/yurs_network/lib/python3.10/site-packages/yurs_network/my_first_node.py to my_first_node.cpython-310.pyc
+[1.801s] byte-compiling /home/donutu/ros2_ws_v2/src/install/yurs_network/lib/python3.10/site-packages/yurs_network/my_third_node.py to my_third_node.cpython-310.pyc
+[1.802s] byte-compiling /home/donutu/ros2_ws_v2/src/install/yurs_network/lib/python3.10/site-packages/yurs_network/my_second_node.py to my_second_node.cpython-310.pyc
+[1.803s] byte-compiling /home/donutu/ros2_ws_v2/src/install/yurs_network/lib/python3.10/site-packages/yurs_network/__init__.py to __init__.cpython-310.pyc
+[1.804s] running install_data
+[1.806s] creating /home/donutu/ros2_ws_v2/src/install/yurs_network/share/ament_index
+[1.807s] creating /home/donutu/ros2_ws_v2/src/install/yurs_network/share/ament_index/resource_index
+[1.807s] creating /home/donutu/ros2_ws_v2/src/install/yurs_network/share/ament_index/resource_index/packages
+[1.808s] copying resource/yurs_network -> /home/donutu/ros2_ws_v2/src/install/yurs_network/share/ament_index/resource_index/packages
+[1.809s] copying package.xml -> /home/donutu/ros2_ws_v2/src/install/yurs_network/share/yurs_network
+[1.810s] running install_egg_info
+[1.814s] Copying ../build/yurs_network/yurs_network.egg-info to /home/donutu/ros2_ws_v2/src/install/yurs_network/lib/python3.10/site-packages/yurs_network-0.0.0-py3.10.egg-info
+[1.816s] running install_scripts
+[1.860s] Installing publisher script to /home/donutu/ros2_ws_v2/src/install/yurs_network/lib/yurs_network
+[1.861s] Installing subscriber1 script to /home/donutu/ros2_ws_v2/src/install/yurs_network/lib/yurs_network
+[1.861s] Installing subscriber2 script to /home/donutu/ros2_ws_v2/src/install/yurs_network/lib/yurs_network
+[1.862s] writing list of installed files to '/home/donutu/ros2_ws_v2/src/build/yurs_network/install.log'
+[1.926s] Invoked command in '/home/donutu/ros2_ws_v2/src/yurs_network' returned '0': PYTHONPATH=/home/donutu/ros2_ws_v2/src/install/yurs_network/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/yurs_network build --build-base /home/donutu/ros2_ws_v2/src/build/yurs_network/build install --prefix /home/donutu/ros2_ws_v2/src/install/yurs_network --record /home/donutu/ros2_ws_v2/src/build/yurs_network/install.log --single-version-externally-managed

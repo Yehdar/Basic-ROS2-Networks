@@ -1,0 +1,9 @@
+source;share/yurs_network/hook/pythonpath.ps1
+source;share/yurs_network/hook/pythonpath.dsv
+source;share/yurs_network/hook/pythonpath.sh
+source;share/yurs_network/hook/ament_prefix_path.ps1
+source;share/yurs_network/hook/ament_prefix_path.dsv
+source;share/yurs_network/hook/ament_prefix_path.sh
+source;../../build/yurs_network/share/yurs_network/hook/pythonpath_develop.ps1
+source;../../build/yurs_network/share/yurs_network/hook/pythonpath_develop.dsv
+source;../../build/yurs_network/share/yurs_network/hook/pythonpath_develop.sh
